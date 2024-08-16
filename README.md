@@ -1,1 +1,3 @@
 # Iris_Flower_Classification
+
+This project classifies Iris flowers into three species—Iris-setosa, Iris-versicolor, and Iris-virginica—using machine learning techniques. Utilizing the Iris dataset, which includes features such as sepal and petal dimensions, the project explores and preprocesses the data, then applies classification algorithms like Logistic Regression, K-Nearest Neighbors, and Decision Trees. The goal is to achieve accurate predictions and evaluate the performance of these models, demonstrating their effectiveness on the dataset. For a detailed walkthrough, refer to the provided Jupyter notebooks or Python scripts.
